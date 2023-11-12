@@ -1,3 +1,8 @@
+INSTASANY
+
+it's a personal documentation of landing page to learning Next.js and tailwind.css
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
